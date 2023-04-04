@@ -1,0 +1,147 @@
+Fri Dec 16 12:28:32 2022
+pParse.exe D:\pFindWorkspace\pFindTask19\param\pParse_subproc2.cfg 
+[pParse] <INFO> - --------- BEGIN PARAMETERS -----------
+[pParse] <INFO> - 01: check_activationcenter = 1
+[pParse] <INFO> - 02: co-elute = 1
+[pParse] <INFO> - 03: cut_similiar_mono = 1
+[pParse] <INFO> - 04: datanum = 1
+[pParse] <INFO> - 05: datapath1 = F:\SDUT\DiaTimsTOF\single_test3.mgf
+[pParse] <INFO> - 06: delete_msn = 0
+[pParse] <INFO> - 07: input_format = mgf
+[pParse] <INFO> - 08: intensity = 1
+[pParse] <INFO> - 09: ipv_file = .\IPV.txt
+[pParse] <INFO> - 10: isolation_width = 2.000000
+[pParse] <INFO> - 11: logfilepath = F:\SDUT\DiaTimsTOF\.proc2
+[pParse] <INFO> - 12: m/z = 5
+[pParse] <INFO> - 13: mars_model = 4
+[pParse] <INFO> - 14: mars_threshold = -0.500000
+[pParse] <INFO> - 15: mstol = 20.000000
+[pParse] <INFO> - 16: mstolppm = 1
+[pParse] <INFO> - 17: output_mgf = 1
+[pParse] <INFO> - 18: output_msb = 0
+[pParse] <INFO> - 19: output_pf = 1
+[pParse] <INFO> - 20: outputpath = 
+[pParse] <INFO> - 21: recalibrate_window = 7.000000
+[pParse] <INFO> - 22: rewrite_files = 0
+[pParse] <INFO> - --------- END PARAMETERS -------------
+[pParse] <INFO> - pParse writes logs in F:\SDUT\DiaTimsTOF\.proc2\pParsePlusLog.txt
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\single_test3.mgf has existed results, skipping...
+[pParse] <INFO> -  == == == Time elapsed: 0 seconds. == == == = 
+Fri Dec 16 15:15:24 2022
+pParse.exe D:\pFindWorkspacepFindTask20\param\pParse_subproc2.cfg 
+[pParse] <INFO> - --------- BEGIN PARAMETERS -----------
+[pParse] <INFO> - 01: check_activationcenter = 1
+[pParse] <INFO> - 02: co-elute = 1
+[pParse] <INFO> - 03: cut_similiar_mono = 1
+[pParse] <INFO> - 04: datanum = 1
+[pParse] <INFO> - 05: datapath1 = F:\SDUT\DiaTimsTOF\single_test3.mgf
+[pParse] <INFO> - 06: delete_msn = 0
+[pParse] <INFO> - 07: input_format = mgf
+[pParse] <INFO> - 08: intensity = 1
+[pParse] <INFO> - 09: ipv_file = .\IPV.txt
+[pParse] <INFO> - 10: isolation_width = 2.000000
+[pParse] <INFO> - 11: logfilepath = F:\SDUT\DiaTimsTOF\.proc2
+[pParse] <INFO> - 12: m/z = 5
+[pParse] <INFO> - 13: mars_model = 4
+[pParse] <INFO> - 14: mars_threshold = -0.500000
+[pParse] <INFO> - 15: mstol = 20.000000
+[pParse] <INFO> - 16: mstolppm = 1
+[pParse] <INFO> - 17: output_mgf = 1
+[pParse] <INFO> - 18: output_msb = 0
+[pParse] <INFO> - 19: output_pf = 1
+[pParse] <INFO> - 20: outputpath = 
+[pParse] <INFO> - 21: recalibrate_window = 7.000000
+[pParse] <INFO> - 22: rewrite_files = 0
+[pParse] <INFO> - --------- END PARAMETERS -------------
+[pParse] <INFO> - pParse writes logs in F:\SDUT\DiaTimsTOF\.proc2\pParsePlusLog.txt
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\single_test3.mgf has existed results, skipping...
+[pParse] <INFO> -  == == == Time elapsed: 0 seconds. == == == = 
+Mon Dec 19 10:45:33 2022
+pParse.exe D:\pFindWorkspace\pFindTask16\param\pParse_subproc2.cfg 
+[pParse] <INFO> - --------- BEGIN PARAMETERS -----------
+[pParse] <INFO> - 01: check_activationcenter = 1
+[pParse] <INFO> - 02: co-elute = 1
+[pParse] <INFO> - 03: cut_similiar_mono = 1
+[pParse] <INFO> - 04: datanum = 1
+[pParse] <INFO> - 05: datapath1 = F:\SDUT\DiaTimsTOF\single_test3.mgf
+[pParse] <INFO> - 06: delete_msn = 0
+[pParse] <INFO> - 07: input_format = mgf
+[pParse] <INFO> - 08: intensity = 1
+[pParse] <INFO> - 09: ipv_file = .\IPV.txt
+[pParse] <INFO> - 10: isolation_width = 2.000000
+[pParse] <INFO> - 11: logfilepath = F:\SDUT\DiaTimsTOF\.proc2
+[pParse] <INFO> - 12: m/z = 5
+[pParse] <INFO> - 13: mars_model = 4
+[pParse] <INFO> - 14: mars_threshold = -0.500000
+[pParse] <INFO> - 15: mstol = 20.000000
+[pParse] <INFO> - 16: mstolppm = 1
+[pParse] <INFO> - 17: output_mgf = 1
+[pParse] <INFO> - 18: output_msb = 0
+[pParse] <INFO> - 19: output_pf = 1
+[pParse] <INFO> - 20: outputpath = 
+[pParse] <INFO> - 21: recalibrate_window = 7.000000
+[pParse] <INFO> - 22: rewrite_files = 0
+[pParse] <INFO> - --------- END PARAMETERS -------------
+[pParse] <INFO> - pParse writes logs in F:\SDUT\DiaTimsTOF\.proc2\pParsePlusLog.txt
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\single_test3.mgf has existed results, skipping...
+[pParse] <INFO> -  == == == Time elapsed: 0 seconds. == == == = 
+Tue Dec 20 18:44:28 2022
+pParse.exe D:\pFindWorkspace\pFindTask17\param\pParse_subproc2.cfg 
+[pParse] <INFO> - --------- BEGIN PARAMETERS -----------
+[pParse] <INFO> - 01: check_activationcenter = 1
+[pParse] <INFO> - 02: co-elute = 1
+[pParse] <INFO> - 03: cut_similiar_mono = 1
+[pParse] <INFO> - 04: datanum = 1
+[pParse] <INFO> - 05: datapath1 = F:\SDUT\DiaTimsTOF\single_test4.mgf
+[pParse] <INFO> - 06: delete_msn = 0
+[pParse] <INFO> - 07: input_format = mgf
+[pParse] <INFO> - 08: intensity = 1
+[pParse] <INFO> - 09: ipv_file = .\IPV.txt
+[pParse] <INFO> - 10: isolation_width = 2.000000
+[pParse] <INFO> - 11: logfilepath = F:\SDUT\DiaTimsTOF\.proc2
+[pParse] <INFO> - 12: m/z = 5
+[pParse] <INFO> - 13: mars_model = 4
+[pParse] <INFO> - 14: mars_threshold = -0.500000
+[pParse] <INFO> - 15: mstol = 20.000000
+[pParse] <INFO> - 16: mstolppm = 1
+[pParse] <INFO> - 17: output_mgf = 1
+[pParse] <INFO> - 18: output_msb = 0
+[pParse] <INFO> - 19: output_pf = 1
+[pParse] <INFO> - 20: outputpath = 
+[pParse] <INFO> - 21: recalibrate_window = 7.000000
+[pParse] <INFO> - 22: rewrite_files = 0
+[pParse] <INFO> - --------- END PARAMETERS -------------
+[pParse] <INFO> - pParse writes logs in F:\SDUT\DiaTimsTOF\.proc2\pParsePlusLog.txt
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\single_test4.mgf has existed results, skipping...
+[pParse] <INFO> -  == == == Time elapsed: 0 seconds. == == == = 
+Thu Jan  5 15:49:46 2023
+pParse.exe D:\pFindWorkspace\pFindTask18\param\pParse_subproc2.cfg 
+[pParse] <INFO> - --------- BEGIN PARAMETERS -----------
+[pParse] <INFO> - 01: check_activationcenter = 1
+[pParse] <INFO> - 02: co-elute = 1
+[pParse] <INFO> - 03: cut_similiar_mono = 1
+[pParse] <INFO> - 04: datanum = 2
+[pParse] <INFO> - 05: datapath1 = F:\SDUT\DiaTimsTOF\charge3.mgf
+[pParse] <INFO> - 06: datapath2 = F:\SDUT\DiaTimsTOF\charge4.mgf
+[pParse] <INFO> - 07: delete_msn = 0
+[pParse] <INFO> - 08: input_format = mgf
+[pParse] <INFO> - 09: intensity = 1
+[pParse] <INFO> - 10: ipv_file = .\IPV.txt
+[pParse] <INFO> - 11: isolation_width = 2.000000
+[pParse] <INFO> - 12: logfilepath = F:\SDUT\DiaTimsTOF\.proc2
+[pParse] <INFO> - 13: m/z = 5
+[pParse] <INFO> - 14: mars_model = 4
+[pParse] <INFO> - 15: mars_threshold = -0.500000
+[pParse] <INFO> - 16: mstol = 20.000000
+[pParse] <INFO> - 17: mstolppm = 1
+[pParse] <INFO> - 18: output_mgf = 1
+[pParse] <INFO> - 19: output_msb = 0
+[pParse] <INFO> - 20: output_pf = 1
+[pParse] <INFO> - 21: outputpath = 
+[pParse] <INFO> - 22: recalibrate_window = 7.000000
+[pParse] <INFO> - 23: rewrite_files = 0
+[pParse] <INFO> - --------- END PARAMETERS -------------
+[pParse] <INFO> - pParse writes logs in F:\SDUT\DiaTimsTOF\.proc2\pParsePlusLog.txt
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\charge3.mgf has existed results, skipping...
+[pParse] <INFO> - F:\SDUT\DiaTimsTOF\charge4.mgf has existed results, skipping...
+[pParse] <INFO> -  == == == Time elapsed: 0 seconds. == == == = 
